@@ -1,0 +1,7 @@
+---
+consul_token: ''
+gitlab_token: ''
+consul_scheme: 'https'
+consul_address: ''
+consul_port: '8500'
+project_name: ''
